@@ -1,0 +1,6 @@
+Shows how to create a Derby DB using a singleton pattern.
+
+Derby is a lightweight db used for in memory applications.
+
+    Used a lot for testing.
+
